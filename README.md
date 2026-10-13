@@ -1,2 +1,0 @@
-# blaze-budget-site
-.
